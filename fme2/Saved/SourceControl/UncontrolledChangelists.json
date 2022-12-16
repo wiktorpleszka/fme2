@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/fme2/fme2/Content/Blueprints/FPSG.uasset",
+				"D:/fme2/fme2/Content/Blueprints/Characters/NewBlueprint.uasset",
+				"D:/fme2/fme2/Content/Blueprints/Characters/Camera.uasset"
+			]
+		}
+	]
+}
